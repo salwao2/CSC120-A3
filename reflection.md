@@ -1,7 +1,9 @@
 Use this file to record your reflection on this assignment.
 
-- Which classmates did you consult with while working on this assignment?
-- Which session(s) of TA / office hours did you attend?
-- What are your initial impressions of Java? 
-- Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+- Musayeroh Bah, Taylor Knibb, Eva Chiara Gittardi
+- Monday night (2/13) TA hours
+- I am slowly getting the hang out Java. I think at first I was very confused because it was quite different in comparison to Python. However, after doing the warmups and the Smithie and OneCard code alongs in class I am starting to understand it better. Also, searching up Java syntax online has been helpful for me.
+- A conlusion that I draw from coding is that there are different ways of thinking about things and coding to get the same outcome. For me it's similar to speaking a language such as Arabic. In Arabic there are various  dialects, but if you know one it's easier to learn others. Similar to coding, sometimes there are major differences such as defining and managing a class and object attributes, but occasionally there is some overlap. 
+- What worked this time was actually trying out pseudo code. That helped me a lot in this assignment especially since there was a lot of syntax that I was using that I never used before. What I initially did was write down every step of how I wanted the chatbot to function and then I searched up the syntax of how to execute each step. For instance, I would search up syntax for the switch statement function and then I would find examples and try to implement it in my code. W3 Schools was super helpful for me. This link had a lot of helpful java syntax that I used for this project: https://www.w3schools.com/java/java_syntax.asp. It goes over strings, booleans, if else statements, switch statements, for loop, while loop, break, arrays, etc.
+- What didn't work is that although there is a lot of useful syntax information online, I didn't always know how to implement it in my code to get it to do what I wanted it to. This was super frustrating for me because I had the idea, but executing it proved to be much more difficult.
+- Some advice I would give to future students is to allow for trial and error. I started this assignment earlier this week so I had a lot more time to experiment and learn as I went before asking for help from my peers or going to TA hours. Additonally, the pseudo-code really helped me and I also commented every line as I went so that I stayed on track with my pseudo code and make sure I fulfilled every step as I went.
